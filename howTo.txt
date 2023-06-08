@@ -1,0 +1,27 @@
+Auth Module
+
+run
+- use socket
+- serve forever
+
+connect
+- request connection 
+- authenticate request, if passed then initiate connection
+disconnect
+- request disconnect
+- handling multiple connection
+
+Pub/Sub Module
+subscribe topic
+- listen to topic
+- callback for each message
+unsubscribe topic
+- stop listening
+
+Publishing Module
+publish to topic
+- publish message to topic
+
+
+Installation 
+- this will running on linux OS
